@@ -8,6 +8,7 @@ numpy = "*"
 jupyter = "*"
 scipy = "*"
 pillow = "*"
+numexpr = "*"
 
 [dev-packages]
 
