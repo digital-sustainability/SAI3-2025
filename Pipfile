@@ -9,6 +9,9 @@ jupyter = "*"
 scipy = "*"
 pillow = "*"
 numexpr = "*"
+matplotlib = "*"
+seaborn = "*"
+openpyxl = "*"
 
 [dev-packages]
 
