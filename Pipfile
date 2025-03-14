@@ -12,6 +12,8 @@ numexpr = "*"
 matplotlib = "*"
 seaborn = "*"
 openpyxl = "*"
+ipympl = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
